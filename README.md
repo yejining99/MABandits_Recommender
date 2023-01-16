@@ -1,1 +1,1 @@
-# MABandits
+# Multi-Armed Bandits
